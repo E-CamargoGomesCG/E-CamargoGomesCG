@@ -14,7 +14,7 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 - **Frameworks & Ferramentas:** Spring Boot, Jira, Android Studio, Eclipse, Arduino e Figma
 - **Banco de Dados:** MySQL, SQLite e Firebase
 - **DevOps & Infraestrutura:** Git e GitHub Actions
-- **Metodologias:** Agile, Scrum, Kanban  
+- **Metodologias:** Agile, Scrum e Kanban  
 
 ---
 
@@ -26,7 +26,7 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 |  | . |  |
 |  | . |  |
 
-> Explore mais em [meus repositórios](https://github.com/E-CamargoGomesCG?tab=repositories)
+> Explore mais em [meus repositórios](https://github.com/E-CamargoGomesCG?tab=repositories).
 
 ---
 
