@@ -32,6 +32,6 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 
 ## Conecte-se comigo
 
-- LinkedIn: [www.linkedin.com/in/eduardocamargogomes)
+- LinkedIn: www.linkedin.com/in/eduardocamargogomes
 - Email: eduardocamargogomes.cg@gmail.com
 
