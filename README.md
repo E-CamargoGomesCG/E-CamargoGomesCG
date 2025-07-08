@@ -1,8 +1,10 @@
 # Eduardo Camargo Gomes
 
-> **Desenvolvedor Back-end  | Mobile | Robótica**
+> **Desenvolvedor Back-end | Mobile | Web | Desktop | Robótica**
 
-Olá! Sou o Eduardo Camargo, um profissional de Ciência da Computação apaixonado por construir soluções robustas, escaláveis e com design centrado no usuário. Minha atuação combina desenvolvimento Full Stack com uma visão analítica e inovadora, alinhada às demandas do mercado e à transformação digital.
+Atuação back-end nas frentes Mobile, Web e Desktop.
+
+Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação técnica em informática e, atualmente, curso Ciência da Computação na UniNorte, onde aprofundo meus conhecimentos.
 
 ---
 
