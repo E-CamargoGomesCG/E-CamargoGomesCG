@@ -22,9 +22,9 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| `Sistema de Gestão Acadêmica` | Plataforma para gerenciamento de dados escolares com dashboard analítico. | Java · Spring Boot · PostgreSQL |
-| `Portfólio Pessoal` | Site responsivo com animações interativas e dark mode. | Next.js · TailwindCSS · Framer Motion |
-| `API de Clima em Tempo Real` | Integração com APIs externas e cache com Redis. | Node.js · Express · Redis |
+|  | . |  |
+|  | . |  |
+|  | . |  |
 
 > Explore mais em [meus repositórios](https://github.com/E-CamargoGomesCG?tab=repositories)
 
