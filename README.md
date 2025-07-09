@@ -22,7 +22,7 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| Projeto Reciclagem | Este projeto tem a finalidade de agilizar e automatizar o processo de separação de materiais recicláveis por meio de uma esteira integrada a um arduíno, que irá realizar a devida separação através de visão computacional por meio de uma rede neural convolucional treinada no Teachable Machine para reconhecimento de objetos. | Python , C, TensorFlow , OpenCV, Arduino, Git, Trello, Tinkercad, Arduino IDE, Ultimaker Cura. |
+| Projeto Reciclagem | Este projeto tem a finalidade de agilizar e automatizar o processo de separação de materiais recicláveis por meio de uma esteira integrada a um arduíno, que irá realizar a devida separação através de visão computacional por meio de uma rede neural convolucional treinada no Teachable Machine para reconhecimento de objetos. | Python, C, TensorFlow, OpenCV, Arduino, Git, Trello, Tinkercad, Arduino IDE e Ultimaker Cura. |
 |  | . |  |
 |  | . |  |
 
