@@ -1,8 +1,8 @@
 # Eduardo Camargo Gomes
 
-> **Desenvolvedor Back-end | Mobile | Web | Desktop | Robótica**
+> **Desenvolvedor Back-end | Mobile | Desktop | Robótica**
 
-Atuação back-end nas frentes Mobile, Web e Desktop.
+Atuação back-end nas frentes Mobile e Desktop.
 
 Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação técnica em informática e, atualmente, curso Ciência da Computação na UniNorte, onde aprofundo meus conhecimentos.
 
