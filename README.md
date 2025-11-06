@@ -11,7 +11,7 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 ## Expertise Técnica
 
 - **Linguagens:** Java, JavaScript, Python, Kotlin, PHP e C/C++  
-- **Frameworks & Ferramentas:** Spring Boot, Jira, Android Studio, Eclipse, Arduino e Figma
+- **Frameworks & Ferramentas:** Jira, Android Studio, Eclipse, Arduino e Figma
 - **Banco de Dados:** MySQL, SQLite e Firebase
 - **DevOps & Infraestrutura:** Git e GitHub Actions
 - **Metodologias:** Agile, Scrum e Kanban  
