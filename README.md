@@ -1,6 +1,6 @@
 # Eduardo Camargo Gomes
 
-> **Desenvolvedor | Mobile | Desktop | Web **
+> Desenvolvedor | Mobile | Desktop | Web
 
 Atuação back-end nas frentes Mobile e Desktop.
 
