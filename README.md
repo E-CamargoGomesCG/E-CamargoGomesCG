@@ -1,6 +1,6 @@
 # Eduardo Camargo Gomes
 
-> **Desenvolvedor Back-end | Mobile | Desktop | Robótica**
+> **Desenvolvedor | Mobile | Desktop | Web **
 
 Atuação back-end nas frentes Mobile e Desktop.
 
@@ -10,11 +10,13 @@ Iniciei minha trajetória no IFAM (Instituto Federal do Amazonas) com formação
 
 ## Expertise Técnica
 
-- **Linguagens:** Java, JavaScript, Python, Kotlin e C/C++  
-- **Frameworks & Ferramentas:** Jira, Android Studio, Eclipse, Arduino e Figma
-- **Banco de Dados:** MySQL, SQLite e Firebase
-- **Metodologias:** Agile, Scrum e Kanban  
-
+- **Linguagens:** Java, C/C++, Python, JavaScript, Node.js, APIs REST, Kotlin
+- **Frontend:** HTML, CSS, React
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLite, SQL, NoSQL, Firebase
+- **Arquitetura:** MVC, MVVM
+- **Fundamentos:** Lógica de Programação, Estruturas de Dados, UML, Documentação Técnica
+- **Ferramentas:** Git, GitHub, CI/CD e Scrum.
+  
 ---
 
 ## Projetos em Destaque
